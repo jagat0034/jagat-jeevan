@@ -1,2 +1,0 @@
-Hello there 
-I am creating this note for a reference to use git hub properly .
